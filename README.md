@@ -7,4 +7,6 @@
 - 🎉Coding Languages: Mainly C++, learning more C#, python, and (node)js.
 
 hey uh hi, if u need help with ANYTHING just dm me on discord. I really don't mind it.
-
+<br>
+If your wondering what happend to my SSL Bypasses, one final one should be coming out whenever I have the time for it.
+I'll just keep updating that one.
