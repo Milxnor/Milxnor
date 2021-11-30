@@ -1,4 +1,4 @@
-- 🔭 I’m currently working on https://github.com/United-Net I guess. And some other side things
+- 🔭 <b>UPDATE: Quit Fortnite Modding</b>
 - 🌱 I’m currently getting better at C++ and improving code.
 - 💬 Ask me about anything and I will be glad to help
 - 📫 How to reach me: Milxnor#3531 on discord
