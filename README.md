@@ -5,5 +5,5 @@
 - ⚡ Fun fact: I'm really good at most games.
 - 🎉Coding Languages: Mainly C++, learning more C#, and (node)js.
 
-i probably will help you if u dm me. unless its about one of my old projects
+I'll probably help you if u message me, unless it's about one of my old projects.
 <br><br>
