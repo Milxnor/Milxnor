@@ -1,4 +1,4 @@
-- 🔭 <b>UPDATE: Back in Fortnite Modding</b>
+- 🔭 <b>UPDATE: Quit FN Modding again I think.</b>
 - 💬 Ask me about anything and I will be glad to help
 - 📫 How to reach me: Milxnor#3531 on discord
 - ⚡ Fun fact: I'm really good at most games.
