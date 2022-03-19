@@ -4,5 +4,6 @@
 - ⚡ Fun fact: I'm really good at most game.
 - 🎉Coding Languages: Fluent in C++, decent at C#, ok at JS.
 
-I'll probably help you if u message me, unless it's about one of my old projects.
+I'll probably help you if u message me, unless it's about one of my old projects.<br>
+I have too many unfinished projects.
 <br><br>
