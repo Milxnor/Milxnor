@@ -5,5 +5,6 @@
 - 🎉Coding Languages: Fluent in C++, decent at C#, ok at JS.
 
 I'll probably help you if u message me, unless it's about one of my old projects.<br>
-I have too many unfinished projects.
+I have too many unfinished projects.<br>
+I am too bored.
 <br><br>
