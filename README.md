@@ -4,5 +4,5 @@
 - ⚡ Fun fact: I'm really good at most games.
 - 🎉Coding Languages: Fluent in C++, getting better at C#, ok at JS.
 
-Boredness is great.
+Boredness is a great tool.
 <br><br>
