@@ -1,6 +1,4 @@
 - 📫 How to reach me: You can't anymore unless it's via GitHub issues which I rarely check.
-- ⚡ Fun fact: I'm really good at most games.
-- 🎉Coding Languages: Fluent in C++, getting better at C# & JS.
+- 🎉Coding Languages: Fluent in C++, learning web development & GoLang.
 
-Boredness is a great tool.
 <br><br>
