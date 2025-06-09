@@ -1,4 +1,4 @@
-- 📫 How to reach me: You can't anymore unless it's via GitHub issues which I rarely check.
-- 🎉Coding Languages: Fluent in C++, learning web development & GoLang.
+- 📫 How to reach me: Discord or via GitHub issues which I rarely check.
+- 🎉Coding Languages: Fluent in C++, learning frontend development & GoLang.
 
 <br><br>
